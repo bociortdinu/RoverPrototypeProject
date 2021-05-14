@@ -1,0 +1,1 @@
+In acest test se poate controla Roverul din aplicatie folosind anumite setari pentru distanele pe care sa le parcurga pe anumite axe.
